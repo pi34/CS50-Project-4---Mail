@@ -1,0 +1,12 @@
+textarea {
+    min-height: 400px;
+}
+
+table {
+    width: 100%
+}
+
+tr {
+    border: 2px solid black;
+    padding: 20px;
+}
